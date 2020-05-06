@@ -19,3 +19,10 @@ Excited!! Everything is setup, just waiting to code
   - Finished all the vides and assignments from week 1.
 
 **Link to work**: https://gist.github.com/sushant12/5d47a6e0641c38d211c92414b9958c73
+
+### Day 3: May 6, 2020
+
+**Today's Progress**:
+  - Started Week 2 and worked on first recursion assignment.
+
+**Link to work**: https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
