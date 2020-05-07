@@ -26,3 +26,11 @@ Excited!! Everything is setup, just waiting to code
   - Started Week 2 and worked on first recursion assignment.
 
 **Link to work**: https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
+
+
+### Day 4: May 7, 2020
+
+**Today's Progress**:
+  - Taking some time finishing the rescursion section. Did some research on n piece assignemnt. I am comfortable with 2D n piece problem but not other dimensions.
+
+**Link to work**: https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
