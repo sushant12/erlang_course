@@ -35,9 +35,16 @@ Excited!! Everything is setup, just waiting to code
 
 **Link to work**: https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
 
-### Day 5: May 7, 2020
+### Day 5: May 8, 2020
 
 **Today's Progress**:
   - I didnt watch any course videos today. I explored the erlang website and found some free books to read. I read about the erlang shell and wanted to look into its source code but it's written in C and I dont know C.
+
+**Link to work**: 
+
+### Day 6: May 9, 2020
+
+**Today's Progress**:
+  - Watched couple of videos on Lists. Waiting for study group to reach week 2 so we can work n recursion together.
 
 **Link to work**: 
