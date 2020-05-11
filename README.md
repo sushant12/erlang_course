@@ -48,3 +48,10 @@ Excited!! Everything is setup, just waiting to code
   - Watched couple of videos on Lists. Waiting for study group to reach week 2 so we can work n recursion together.
 
 **Link to work**: 
+
+### Day 7: May 10, 2020
+
+**Today's Progress**:
+  - Watched just one video from week 2.
+
+**Link to work**: 
