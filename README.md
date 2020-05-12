@@ -55,3 +55,11 @@ Excited!! Everything is setup, just waiting to code
   - Watched just one video from week 2.
 
 **Link to work**: 
+
+
+### Day 8: May 11, 2020
+
+**Today's Progress**:
+  - Finished watching the videos from the `Lists` section of week 2. Now, I will be focusing on the recursion and list assignments.
+
+**Link to work**: 
