@@ -63,3 +63,11 @@ Excited!! Everything is setup, just waiting to code
   - Finished watching the videos from the `Lists` section of week 2. Now, I will be focusing on the recursion and list assignments.
 
 **Link to work**: 
+
+### Day 9: May 12, 2020
+
+**Today's Progress**:
+  - Finished first assignment on recursion and working on the second assignment.
+
+**Link to work**:  https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
+
