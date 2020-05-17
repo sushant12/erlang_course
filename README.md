@@ -71,3 +71,10 @@ Excited!! Everything is setup, just waiting to code
 
 **Link to work**:  https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
 
+### Day 10: May 17, 2020
+
+**Today's Progress**:
+  - Finished most of the course videos and couple of assignments.
+
+**Link to work**:  https://gist.github.com/sushant12/af80670e7923f43c7e8d0dbe37d82c6b
+
